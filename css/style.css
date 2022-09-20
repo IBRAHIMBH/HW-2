@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  /* global class  */
+  section {
+    padding: 100px 0px;
+    text-align: center;
+  }
+  .heading {
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: inherit;
+    line-height: 35px; 
+  }
+  .sub-heading {
+
+  }
+  .pg {
+
+  }
+  .underline {
+    border-top: 5px solid #00000036;
+    width: 5%;
+    margin: 20px auto;
+}
+  .container {
+    width: 90%;
+    margin: auto;
+  }
+  header {
+    background-color: #87509C;
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+  }
+  nav {
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+  }
+  .logo-part {
+    width: 50%;
+    float: left;
+  }
+  .logo-part img{
+
+  }
+  .menu-part {
+    width: 50%;
+    float: left;
+  }
+  .menu-part ul{
+
+text-align: right;
+
+}
+  .menu-part li{
+
+display: inline-block;
+
+padding: 10px;
+
+margin: 0px 5px;
+
+}
+  .menu-part li a{
+
+font-size: 18px;
+
+color: #fff;
+
+text-decoration: none;
+
+}
+  .hero-part {
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: #fff;
+    padding: 150px 0px;
+  }
+  .hero-part h1{
+
+width: 55%;
+
+margin: auto;
+}
+  .hero-part button{
+width: 200px;
+padding: 10px;
+margin-top: 20px;
+color: #fff;
+background-color: #EB7D4B;
+  }
+  
+  #services {
+    background-color: #17C2A4;
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: #fff;
+  }
+  .services-writing-part {
+    width: 100%;
+    float: left;
+    padding: 20px;
+    margin: 20px;
+  }
+  .services-writing-part h2{
+      
+padding: 10px;
+      
+color: #fff;
+  }
+  .services-writing-part p{
+
+color: #fff;
+
+margin: auto;
+
+width: 50%;
+
+}
+  .services-box-part {
+    width: 100%;
+    float: left;
+    color: #fff;
+  }
+  .services-box {
+    width: 25%;
+    float: left;
+  }
+  /* team section */
+
+  #team {
+    width: 100%;
+    float: left;
+    background-color: #E7F1F8;
+  }
+.team-writting-part {
+    width: 100%;
+    float: left;
+}
+.team-box-part {
+    width: 100%;
+    float: left;
+}
+.team-box {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.team-box img {
+  max-width: 50%;
+  border: 4px solid black;
+  padding: 18px;
+  border-radius: 50%;
+}
+.social-icon {
+  font-size: 20px;
+  padding: 10px;
+  background-color: #BDD1DF;
+  border-radius: 50%;
+}
